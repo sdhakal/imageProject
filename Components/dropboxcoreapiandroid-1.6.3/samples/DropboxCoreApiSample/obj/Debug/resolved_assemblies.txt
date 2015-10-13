@@ -1,0 +1,7 @@
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\DropboxCoreApiSample.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\Dropbox.CoreApi.Android.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\System.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxcoreapiandroid-1.6.3\samples\DropboxCoreApiSample\obj\Debug\assemblies\System.Xml.dll

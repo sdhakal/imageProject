@@ -1,0 +1,17 @@
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\DBChooserApp.Android.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\DBChooserApp.Android.pdb
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\DBChooserApp.Android.apk
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\DBChooserApp.Android-Signed.apk
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\Dropins.Chooser.Android.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\DBChooserApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\DBChooserApp.Android.dll
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\DBChooserApp.Android.pdb
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\android\bin\DBChooserApp.Android.apk
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\res\layout\main.xml
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\res\values\strings.xml
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\res\layout\list_item_section.xml
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\res\layout\list_item_entry.xml
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\R.cs.flag
+C:\Users\Suman\Documents\Projects\image\Components\dropboxdropins-1.2.1.4\samples\DBChooserApp.Android\DBChooserApp.Android\obj\Debug\uploadflags.txt

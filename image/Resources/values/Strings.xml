@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pick_gallery">Pick Image From Gallery!</string>
+	<string name="btnCreate">Create</string>
+	<string name="app_name">image</string>
+	<string name="btnPreview">Create/Update</string>
+	<string name="btnDirect">Chooser From Dropbox</string>
+
+<!--	<string name="btnLocal">Local Content</string>-->
+
+</resources>

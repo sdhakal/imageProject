@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btnPreview">Preview Link</string>
+	<string name="btnDirect">Direct Link</string>
+	<string name="btnLocal">Local Content Uri</string>
+</resources>

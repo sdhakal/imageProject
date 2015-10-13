@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="image\image.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_One_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="image\ListView.cs">
+    <Files>
+      <File FileName="image\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="image\EntryAdapter.cs" Line="17" Column="20" />
+      <File FileName="image\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="image\ListView.cs" Line="49" Column="20" />
+      <File FileName="image\MainActivity.cs" Line="58" Column="6" />
+      <File FileName="image\Properties\AndroidManifest.xml" Line="13" Column="53" />
+      <File FileName="image\Resources\layout\build.axml" Line="38" Column="40" />
+      <File FileName="image\Resources\layout\listview.axml" Line="15" Column="34" />
+      <File FileName="image\Resources\layout\infoview.axml" Line="6" Column="14" />
+      <File FileName="image\Resources\layout\Main.axml" Line="9" Column="45" />
+      <File FileName="image\Information.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.image AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

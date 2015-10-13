@@ -1,0 +1,104 @@
+image.MainActivity, image;md58f670207c412c181d33fd301aaa20e3c.MainActivity
+image.MainActivity, image, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58f670207c412c181d33fd301aaa20e3c.MainActivity
+image.MainActivity;md58f670207c412c181d33fd301aaa20e3c.MainActivity
+image.MainActivity;md58f670207c412c181d33fd301aaa20e3c.MainActivity
+image.EntryAdapter, image;md58f670207c412c181d33fd301aaa20e3c.EntryAdapter
+image.EntryAdapter, image, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58f670207c412c181d33fd301aaa20e3c.EntryAdapter
+image.EntryAdapter;md58f670207c412c181d33fd301aaa20e3c.EntryAdapter
+image.EntryAdapter;md58f670207c412c181d33fd301aaa20e3c.EntryAdapter
+image.BuildSection, image;md58f670207c412c181d33fd301aaa20e3c.BuildSection
+image.BuildSection, image, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58f670207c412c181d33fd301aaa20e3c.BuildSection
+image.BuildSection;md58f670207c412c181d33fd301aaa20e3c.BuildSection
+image.BuildSection;md58f670207c412c181d33fd301aaa20e3c.BuildSection
+image.ListView, image;md58f670207c412c181d33fd301aaa20e3c.ListView
+image.ListView, image, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58f670207c412c181d33fd301aaa20e3c.ListView
+image.ListView;md58f670207c412c181d33fd301aaa20e3c.ListView
+image.ListView;md58f670207c412c181d33fd301aaa20e3c.ListView
+DropboxSync.Android.DBAccount/IListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxAccount_ListenerImplementor
+DropboxSync.Android.DBAccount/IListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxAccount_ListenerImplementor
+DropboxSync.Android.DBAccount.IListenerImplementor;mono.com.dropbox.sync.android.DbxAccount_ListenerImplementor
+dropboxsync.android.DBAccount_IListenerImplementor;mono.com.dropbox.sync.android.DbxAccount_ListenerImplementor
+DropboxSync.Android.DBAccountManager/IAccountListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxAccountManager_AccountListenerImplementor
+DropboxSync.Android.DBAccountManager/IAccountListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxAccountManager_AccountListenerImplementor
+DropboxSync.Android.DBAccountManager.IAccountListenerImplementor;mono.com.dropbox.sync.android.DbxAccountManager_AccountListenerImplementor
+dropboxsync.android.DBAccountManager_IAccountListenerImplementor;mono.com.dropbox.sync.android.DbxAccountManager_AccountListenerImplementor
+DropboxSync.Android.DBDatastore/ISyncStatusListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxDatastore_SyncStatusListenerImplementor
+DropboxSync.Android.DBDatastore/ISyncStatusListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxDatastore_SyncStatusListenerImplementor
+DropboxSync.Android.DBDatastore.ISyncStatusListenerImplementor;mono.com.dropbox.sync.android.DbxDatastore_SyncStatusListenerImplementor
+dropboxsync.android.DBDatastore_ISyncStatusListenerImplementor;mono.com.dropbox.sync.android.DbxDatastore_SyncStatusListenerImplementor
+DropboxSync.Android.DBDatastoreManager/IListListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxDatastoreManager_ListListenerImplementor
+DropboxSync.Android.DBDatastoreManager/IListListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxDatastoreManager_ListListenerImplementor
+DropboxSync.Android.DBDatastoreManager.IListListenerImplementor;mono.com.dropbox.sync.android.DbxDatastoreManager_ListListenerImplementor
+dropboxsync.android.DBDatastoreManager_IListListenerImplementor;mono.com.dropbox.sync.android.DbxDatastoreManager_ListListenerImplementor
+DropboxSync.Android.DBFile/IListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxFile_ListenerImplementor
+DropboxSync.Android.DBFile/IListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxFile_ListenerImplementor
+DropboxSync.Android.DBFile.IListenerImplementor;mono.com.dropbox.sync.android.DbxFile_ListenerImplementor
+dropboxsync.android.DBFile_IListenerImplementor;mono.com.dropbox.sync.android.DbxFile_ListenerImplementor
+DropboxSync.Android.DBFileSystem/IPathListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxFileSystem_PathListenerImplementor
+DropboxSync.Android.DBFileSystem/IPathListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxFileSystem_PathListenerImplementor
+DropboxSync.Android.DBFileSystem.IPathListenerImplementor;mono.com.dropbox.sync.android.DbxFileSystem_PathListenerImplementor
+dropboxsync.android.DBFileSystem_IPathListenerImplementor;mono.com.dropbox.sync.android.DbxFileSystem_PathListenerImplementor
+DropboxSync.Android.DBFileSystem/ISyncStatusListenerImplementor, DropboxSync.Android;mono.com.dropbox.sync.android.DbxFileSystem_SyncStatusListenerImplementor
+DropboxSync.Android.DBFileSystem/ISyncStatusListenerImplementor, DropboxSync.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.dropbox.sync.android.DbxFileSystem_SyncStatusListenerImplementor
+DropboxSync.Android.DBFileSystem.ISyncStatusListenerImplementor;mono.com.dropbox.sync.android.DbxFileSystem_SyncStatusListenerImplementor
+dropboxsync.android.DBFileSystem_ISyncStatusListenerImplementor;mono.com.dropbox.sync.android.DbxFileSystem_SyncStatusListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+android.support.v4.view.ViewPager_IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+android.support.v4.widget.SwipeRefreshLayout_IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+android.support.v4.app.FragmentManager_IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCanceledListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCanceledListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCanceledListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+android.support.v4.content.Loader_IOnLoadCanceledListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+android.support.v4.content.Loader_IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+android.support.v4.media.session.MediaSessionCompat_IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.OS.CancellationSignal/IOnCancelListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.OS.CancellationSignal/IOnCancelListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.OS.CancellationSignal.IOnCancelListenerImplementor;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+android.support.v4.os.CancellationSignal_IOnCancelListenerImplementor;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+android.support.v4.view.ActionProvider_ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+android.support.v4.view.ActionProvider_IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+android.support.v4.view.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+android.support.v4.view.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+android.support.v4.view.MenuItemCompat_IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+android.support.v4.widget.DrawerLayout_IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+android.support.v4.widget.SlidingPaneLayout_IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor

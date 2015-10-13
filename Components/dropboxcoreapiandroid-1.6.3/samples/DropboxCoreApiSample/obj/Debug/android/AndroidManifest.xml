@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.xamarin.dropboxcoreapisample">
+  <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
+  <application android:label="DropboxCoreApiSample" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:name="com.dropbox.client2.android.AuthActivity" android:launchMode="singleTask" android:configChanges="orientation|keyboard">
+      <intent-filter>
+        <!-- Change this to be db- followed by your app key -->
+        <data android:scheme="db-YOUR_APP_KEY" />
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/icon" android:label="DropboxCoreApiSample" android:name="md516dc2f4252a15c48c7e64e7ca339f3e9.MainActivity" />
+    <activity android:label="ImageViewActivity" android:name="md516dc2f4252a15c48c7e64e7ca339f3e9.ImageViewActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.dropboxcoreapisample.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.dropboxcoreapisample" />
+      </intent-filter>
+    </receiver>
+    <activity android:icon="@drawable/icon" android:label="DropboxCoreApiSample" android:name="com.xamarin.dropboxcoreapisample.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>
